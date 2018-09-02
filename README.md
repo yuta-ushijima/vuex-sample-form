@@ -1,4 +1,4 @@
-# test-project
+# vuex-sample-form
 
 > A Vue.js project
 
